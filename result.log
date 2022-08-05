@@ -1,0 +1,10 @@
+data2.json -> data2.yaml -> 231s -> size 67719kb -> 69223kb
+data1.yaml -> data1.json -> 79s -> size 12766kb -> 13362kb
+data2.json -> data2.yaml -> 229s -> size 67719kb -> 138446kb
+data1.yaml -> data1.json -> 72s -> size 12766kb -> 26724kb
+data2.json -> data2.yaml -> 235s -> size 67719kb -> 207669kb
+data1.yaml -> data1.json -> 63s -> size 12766kb -> 40086kb
+data2.json -> data2.yaml -> 234s -> size 67719kb -> 276892kb
+data1.yaml -> data1.json -> 63s -> size 12766kb -> 53448kb
+data2.json -> data2.yaml -> 230s -> size 67719kb -> 69223kb
+data1.yaml -> data1.json -> 65s -> size 12766kb -> 13362kb
